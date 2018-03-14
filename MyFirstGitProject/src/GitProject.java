@@ -15,5 +15,7 @@ public class GitProject {
 		System.out.println("olo1 from AutisticSuicidal");
 	}
 	
-	
+	private void showMessage1() {
+		System.out.println("i dont have friends");
+	}
 }
