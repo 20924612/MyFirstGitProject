@@ -12,7 +12,7 @@ public class GitProject {
 	}
 	
 	private void showMessage() {
-		System.out.println("olo from AutisticSuicidal");
+		System.out.println("olo1 from AutisticSuicidal");
 	}
 	
 	
